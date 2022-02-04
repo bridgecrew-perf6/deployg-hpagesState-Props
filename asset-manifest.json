@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deployg-hpagesState-Props/static/css/main.59ba4c83.css",
+    "main.js": "/deployg-hpagesState-Props/static/js/main.7767f005.js",
+    "index.html": "/deployg-hpagesState-Props/index.html",
+    "main.59ba4c83.css.map": "/deployg-hpagesState-Props/static/css/main.59ba4c83.css.map",
+    "main.7767f005.js.map": "/deployg-hpagesState-Props/static/js/main.7767f005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ba4c83.css",
+    "static/js/main.7767f005.js"
+  ]
+}
